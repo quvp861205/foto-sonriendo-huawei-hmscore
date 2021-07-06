@@ -28,11 +28,11 @@ Instalar App Gallery y HMS Core : https://huaweimobileservices.com/es/appgallery
 
 *Pantallazos*
 
-![](HMS Core AppGallery.png)
-![](HMS Core Huawei.png)
-![](new key store.png)
-![](inicio login.png)
-![](permisos de login.png)
-![](opciones de foto.png)
+![](HMSCoreAppGallery.png)
+![](HMSCoreHuawei.png)
+![](newkeystore.png)
+![](iniciologin.png)
+![](permisosdelogin.png)
+![](opcionesdefoto.png)
 ![](selfie.png)
 
